@@ -1,0 +1,16 @@
+.add_status{
+    margin-top:20px;
+}
+.search,.search_button{
+    margin-top:15px;
+}
+.keyword{
+    display:inline-block;
+    width:480px;
+}
+.search_results,.no_results{
+    display:none;
+}
+.show{
+    display:block;
+}

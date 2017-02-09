@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/lus/code2017/task1/public/css/style.css</file>
+            <file>file:/E:/lus/code2017/task1/app/Models/User.php</file>
+            <file>file:/E:/lus/code2017/task1/public/js/init.js</file>
+            <file>file:/E:/lus/code2017/task1/routes/web.php</file>
+            <file>file:/E:/lus/code2017/task1/app/Http/Requests/StoreAddUserRequest.php</file>
+            <file>file:/E:/lus/code2017/task1/app/Http/Controllers/HomeController.php</file>
+            <file>file:/E:/lus/code2017/task1/app/User.php</file>
+            <file>file:/E:/lus/code2017/task1/resources/views/home.blade.php</file>
+            <file>file:/E:/lus/code2017/task1/composer.json</file>
+            <file>file:/E:/lus/code2017/task1/resources/views/logUser.blade.php</file>
+            <file>file:/E:/lus/code2017/task1/app/Http/Controllers/Controller.php</file>
+            <file>file:/E:/lus/code2017/task1/.env</file>
+            <file>file:/E:/lus/code2017/task1/resources/views/welcome.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
